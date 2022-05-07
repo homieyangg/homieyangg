@@ -1,6 +1,5 @@
-### Welcome to my Github 👋
+### Welcome to my Github 
 
-I'm Ming
 
 目前在Ispan上課
 
