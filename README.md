@@ -1,6 +1,5 @@
-### Welcome to my Github 
+:boy:  I'm Gary
+
+This is a feature made at iSpan [:cat:LungHi Peace](https://github.com/iSpan-EEIT45-Team2/LungSpringBootVersion)
 
 
-目前在Ispan上課
-
-主要語言為Java,這裡會放一些上課File以及未來的專題Demo
